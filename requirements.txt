@@ -7,3 +7,4 @@ seaborn
 streamlit
 joblib
 tldextract
+plotly==5.18.0
